@@ -1,3 +1,8 @@
-"# Navbar-com-menu-lateral-HTML-CSS-JS" 
-"# Navbar-com-menu-lateral-HTML-CSS-JS" 
-"# Navbar-com-menu-lateral-HTML-CSS-JS" 
+## Menu navigation com rolagem lateral
+
+responsividade não teste!
+
+## Linguagens utilizadas
+- html
+- css
+- js
